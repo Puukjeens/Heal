@@ -17,7 +17,7 @@
         "admin":                "#42A5DC",
         "ambassador":           "#84B423",
         "host":                 "#FF0000",
-        "cohost":               "#FF0040",
+        "cohost":               "#F3508F",
         "manager":              "#60DE41",
         "bouncer":              "#2EFEF7",
         "rdj":                  "#E83CE5",
@@ -27,12 +27,12 @@
         "user":                 "#FFFFFF"
     },
     "images": {
-        "background":           "http://www.bildites.lv/images/o79qt71yrky1u4m0fgo.png",
+        "background":           "http://orig13.deviantart.net/7c2a/f/2015/226/e/9/toothless_wallpaper_1080p_by_higemouse-d95iwhz.jpg",
         "playback":             null,
         "admin":                null,
         "ambassador":           null,
         "host":                 "http://www.webhostingtalk.com/images/icons/icon28.gif",
-        "cohost":               "https://sunciits.co/_img/ico/host.png",
+        "cohost":               "https://cdn.radiant.dj/rcs/icons/radiant/cohost.png",
         "manager":              "https://sunciits.co/_img/ico/manager.png",
         "bouncer":              "https://sunciits.co/_img/ico/bouncer.png",
         "rdj":                  "https://sunciits.co/_img/ico/residentdj.png",
