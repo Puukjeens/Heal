@@ -1,7 +1,7 @@
 {
     "room":                     "♪ ♫ Latvian chill ♫ ♪",
     "author":                   "Puukjeens",
-    "icon":                     "http://www.webhostingtalk.com/images/icons/icon28.gif",
+    "icon":                     "https://s-media-cache-ak0.pinimg.com/avatars/eymchd-1390746876_30.jpg",
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
@@ -31,7 +31,7 @@
         "playback":             null,
         "admin":                null,
         "ambassador":           null,
-        "host":                 "https://sunciits.co/_img/ico/host.png",
+        "host":                 "http://www.webhostingtalk.com/images/icons/icon28.gif",
         "cohost":               "https://sunciits.co/_img/ico/host.png",
         "manager":              "https://sunciits.co/_img/ico/manager.png",
         "bouncer":              "https://sunciits.co/_img/ico/bouncer.png",
