@@ -1,7 +1,7 @@
 {
-    "room":                     "Latvian chill",
+    "room":                     "♪ ♫ Latvian chill ♫ ♪",
     "author":                   "Puukjeens",
-    "icon":                     "https://s-media-cache-ak0.pinimg.com/avatars/eymchd-1390746876_30.jpg",
+    "icon":                     "http://www.webhostingtalk.com/images/icons/icon28.gif",
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
@@ -16,31 +16,31 @@
     "ccc": {
         "admin":                "#42A5DC",
         "ambassador":           "#84B423",
-        "host":                 "#FF9B00",
-        "cohost":               "#FF0000",
-        "manager":              "#0101DF",
-        "bouncer":              "#00FFFF",
-        "rdj":                  "#2EFE2E",
+        "host":                 "#FF1700",
+        "cohost":               "#B54747",
+        "manager":              "#60DE41",
+        "bouncer":              "#3C4EE8",
+        "rdj":                  "#E83CE5",
         "subscriber":           "#A1A6B3",
         "silversubscriber":     "#A1A6B3",
-        "friend":               "#B35D88",
-        "user":                 "#8B92A3"
+        "friend":               "#F7D900",
+        "user":                 "#FFFFFF"
     },
     "images": {
-        "background":           "http://images6.fanpop.com/image/photos/38600000/Toothless-dragons-38680978-1600-900.jpg",
+        "background":           "http://orig13.deviantart.net/7c2a/f/2015/226/e/9/toothless_wallpaper_1080p_by_higemouse-d95iwhz.jpg",
         "playback":             null,
-        "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
-        "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
-        "host":                 "http://www.webhostingtalk.com/images/icons/icon28.gif",
+        "admin":                null,
+        "ambassador":           null,
+        "host":                 "https://sunciits.co/_img/ico/host.png",
         "cohost":               "http://www.webhostingtalk.com/images/icons/icon28.gif",
-        "manager":              "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
-        "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
-        "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
+        "manager":              "https://sunciits.co/_img/ico/manager.png",
+        "bouncer":              "https://sunciits.co/_img/ico/bouncer.png",
+        "rdj":                  "https://sunciits.co/_img/ico/residentdj.png",
         "subscriber":           null,
-        "silversubscriber":     "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
+        "silversubscriber":     null
     },
     "autocomplete": [],
     "emotes": {
-        "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
+        "custom_test": null
     }
 }
