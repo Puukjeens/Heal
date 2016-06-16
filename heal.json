@@ -16,7 +16,7 @@
     "ccc": {
         "admin":                "#42A5DC",
         "ambassador":           "#84B423",
-        "host":                 "#FF0000",
+        "host":                 "#FFFF00",
         "cohost":               "#F3508F",
         "manager":              "#60DE41",
         "bouncer":              "#2EFEF7",
@@ -31,7 +31,7 @@
         "playback":             null,
         "admin":                null,
         "ambassador":           null,
-        "host":                 "http://www.webhostingtalk.com/images/icons/icon28.gif",
+        "host":                 "http://orig02.deviantart.net/292e/f/2014/275/c/f/mini_toothless_16x16_by_xxeffie-d81d2y3.png",
         "cohost":               "https://cdn.radiant.dj/rcs/icons/radiant/cohost.png",
         "manager":              "https://sunciits.co/_img/ico/manager.png",
         "bouncer":              "http://www.bildites.lv/images/8v8sqvjxzxl4on8whlq.png",
