@@ -1,0 +1,228 @@
+ /* Likuxas */
+#chat-messages .id-4049810 .badge-box i.bdg
+{
+        background-image:       url('https://nbot.lt/mta-images/admin.png');
+        background-size:        cover;
+}
+
+/* Simplelele */
+
+#chat-messages .id-16538423 .badge-box i.bdg
+{
+        background-image:       url('https://nbot.lt/mta-images/awp.png');
+        background-size:        cover;
+}
+
+ /* Izabele */
+#chat-messages .id-2987576 .badge-box i.bdg
+{
+        background-image:       url('https://nbot.lt/mt-images/69.png');
+        background-size:        cover;
+}
+
+
+/* MisterisR */
+
+#chat-messages .id-5033973 .badge-box i.bdg
+{
+        background-image:       url('https://nbot.lt/mta-images/mister.png');
+        background-size:        cover;
+}
+
+/* -Martynas */
+
+#chat-messages .id-4099955 .badge-box i.bdg
+{
+        background-image:       url('https://nbot.lt/mta-images/mvgas.png');
+        background-size:        cover;
+}
+
+/* miauvardusarunas */
+
+#chat-messages .id-4857579 .badge-box i.bdg
+{
+        background-image:       url('http://image.prntscr.com/image/484b5cfca3534b1ea13b9efa58680ff5.png');
+        background-size:        cover;
+}
+
+/* Voveriuke */
+
+#chat-messages .id-3627171 .badge-box i.bdg
+{
+        background-image:       url('https://nbot.lt/mta-images/tom.png');
+        background-size:        cover;
+}
+
+/* Dedule */
+
+#chat-messages .id-3640043 .badge-box i.bdg
+{
+        background-image:       url('https://nbot.lt/mta-images/18.png');
+        background-size:        cover;
+}
+
+/* Kvanka */
+
+#chat-messages .id-4771436 .badge-box i.bdg
+{
+        background-image:       url('https://nbot.lt/mta-images/kvanka.png');
+        background-size:        cover;
+}
+
+/* Gangster */
+
+#chat-messages .id-13528413 .badge-box i.bdg
+{
+        background-image:       url('https://nbot.lt/mt-images/sexlove.png');
+        background-size:        cover;
+}
+
+/* Tomas655 */
+
+#chat-messages .id-13447520 .badge-box i.bdg
+{
+        background-image:       url('https://nbot.lt/mt-images/merga.png');
+        background-size:        cover;
+}
+
+/* Splash */
+
+#chat-messages .id-16112673 .badge-box i.bdg
+{
+        background-image:       url('https://nbot.lt/mt-images/bulvon.png');
+        background-size:        cover;
+}
+
+/* ????xMekisx???? */
+
+#chat-messages .id-13625203 .badge-box i.bdg
+{
+        background-image:       url('https://nbot.lt/mt-images/pok.png');
+        background-size:        cover;
+}
+
+/* Panele Roze */
+
+#chat-messages .id-14153646 .badge-box i.bdg
+{
+        background-image:       url('https://nbot.lt/mt-images/roze.png');
+        background-size:        cover;
+}
+
+/* Santa */
+
+#chat-messages .id-3992792 .badge-box i.bdg
+{
+        background-image:       url('https://nbot.lt/mt-images/akys.png');
+        background-size:        cover;
+}
+
+/* -------------- Chat Ikonos --------- */
+
+/* Kvanka */
+
+[data-cid^="4771436-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('https://nbot.lt/mta-images/banana.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+
+/* Voveriuke */
+
+[data-cid^="3627171-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('https://nbot.lt/mta-images/sirdute.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+
+/* MisterisR */
+
+[data-cid^="5033973-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('https://nbot.lt/mta-images/goldsub.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+
+/* PiktasDede */
+
+[data-cid^="16079391-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('https://nbot.lt/mta-images/radijacija.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+
+/* Dedule */
+
+[data-cid^="3640043-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('https://nbot.lt/mta-images/lt-flag.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+
+/* Karo */
+
+[data-cid^="6151567-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('https://nbot.lt/mta-images/sun.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+
+/* Erka */
+
+[data-cid^="5246980-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('https://nbot.lt/mta-images/debesis.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+
+/* Martynas */
+
+[data-cid^="4099955-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('https://nbot.lt/mta-images/bioh.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+
+/* Edgaras */
+
+[data-cid^="3419951-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('https://nbot.lt/mt-images/zaibas.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
